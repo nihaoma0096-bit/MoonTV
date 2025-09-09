@@ -36,7 +36,7 @@ function DoubanPageClient() {
 
   // 选择器状态 - 完全独立，不依赖URL参数
   const [primarySelection, setPrimarySelection] = useState<string>(() => {
-    return type === 'movie' ? '热门' : '';
+    return type === 'movie' ? '热222门' : '';
   });
   const [secondarySelection, setSecondarySelection] = useState<string>(() => {
     if (type === 'movie') return '全部';
