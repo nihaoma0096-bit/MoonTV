@@ -93,4 +93,319 @@
       "query": "华语"
     }
   ]
+      "custom_category": [
+   {
+      "name": "剧情",
+      "type": "movie",
+      "query": "剧情"
+    },
+    {
+      "name": "喜剧",
+      "type": "movie", 
+      "query": "喜剧"
+    },
+    {
+      "name": "动作",
+      "type": "movie",
+      "query": "动作"
+    },
+    {
+      "name": "爱情",
+      "type": "movie",
+      "query": "爱情"
+    },
+    {
+      "name": "科幻",
+      "type": "movie",
+      "query": "科幻"
+    },
+    {
+      "name": "动画",
+      "type": "movie",
+      "query": "动画"
+    },
+    {
+      "name": "悬疑",
+      "type": "movie",
+      "query": "悬疑"
+    },
+    {
+      "name": "惊悚",
+      "type": "movie",
+      "query": "惊悚"
+    },
+    {
+      "name": "恐怖",
+      "type": "movie",
+      "query": "恐怖"
+    },
+    {
+      "name": "纪录片",
+      "type": "movie",
+      "query": "纪录片"
+    },
+    {
+      "name": "短片",
+      "type": "movie",
+      "query": "短片"
+    },
+    {
+      "name": "音乐",
+      "type": "movie",
+      "query": "音乐"
+    },
+    {
+      "name": "歌舞",
+      "type": "movie",
+      "query": "歌舞"
+    },
+    {
+      "name": "家庭",
+      "type": "movie",
+      "query": "家庭"
+    },
+    {
+      "name": "儿童",
+      "type": "movie",
+      "query": "儿童"
+    },
+    {
+      "name": "传记",
+      "type": "movie",
+      "query": "传记"
+    },
+    {
+      "name": "历史",
+      "type": "movie",
+      "query": "历史"
+    },
+    {
+      "name": "战争",
+      "type": "movie",
+      "query": "战争"
+    },
+    {
+      "name": "犯罪",
+      "type": "movie",
+      "query": "犯罪"
+    },
+    {
+      "name": "西部",
+      "type": "movie",
+      "query": "西部"
+    },
+    {
+      "name": "奇幻",
+      "type": "movie",
+      "query": "奇幻"
+    },
+    {
+      "name": "冒险",
+      "type": "movie",
+      "query": "冒险"
+    },
+    {
+      "name": "灾难",
+      "type": "movie",
+      "query": "灾难"
+    },
+    {
+      "name": "武侠",
+      "type": "movie",
+      "query": "武侠"
+    },
+    {
+      "name": "古装",
+      "type": "movie",
+      "query": "古装"
+    },
+    {
+      "name": "运动",
+      "type": "movie",
+      "query": "运动"
+    },
+    {
+      "name": "黑色电影",
+      "type": "movie",
+      "query": "黑色电影"
+    },
+    {
+      "name": "情色",
+      "type": "movie",
+      "query": "情色"
+    },
+    {
+      "name": "国产剧",
+      "type": "tv",
+      "query": "国产剧"
+    },
+    {
+      "name": "美剧",
+      "type": "tv",
+      "query": "美剧"
+    },
+    {
+      "name": "英剧",
+      "type": "tv",
+      "query": "英剧"
+    },
+    {
+      "name": "韩剧",
+      "type": "tv",
+      "query": "韩剧"
+    },
+    {
+      "name": "日剧",
+      "type": "tv",
+      "query": "日剧"
+    },
+    {
+      "name": "港剧",
+      "type": "tv",
+      "query": "港剧"
+    },
+    {
+      "name": "台剧",
+      "type": "tv",
+      "query": "台剧"
+    },
+    {
+      "name": "海外剧",
+      "type": "tv",
+      "query": "海外剧"
+    },
+    {
+      "name": "剧情剧",
+      "type": "tv",
+      "query": "剧情"
+    },
+    {
+      "name": "喜剧剧",
+      "type": "tv",
+      "query": "喜剧"
+    },
+    {
+      "name": "爱情剧",
+      "type": "tv",
+      "query": "爱情"
+    },
+    {
+      "name": "悬疑剧",
+      "type": "tv",
+      "query": "悬疑"
+    },
+    {
+      "name": "犯罪剧",
+      "type": "tv",
+      "query": "犯罪"
+    },
+    {
+      "name": "奇幻剧",
+      "type": "tv",
+      "query": "奇幻"
+    },
+    {
+      "name": "科幻剧",
+      "type": "tv",
+      "query": "科幻"
+    },
+    {
+      "name": "历史剧",
+      "type": "tv",
+      "query": "历史"
+    },
+    {
+      "name": "战争剧",
+      "type": "tv",
+      "query": "战争"
+    },
+    {
+      "name": "动画剧",
+      "type": "tv",
+      "query": "动画"
+    },
+    {
+      "name": "家庭剧",
+      "type": "tv",
+      "query": "家庭"
+    },
+
+
+    
+    {
+      "name": "真人秀",
+      "type": "tv",
+      "query": "真人秀"
+    },
+    {
+      "name": "脱口秀",
+      "type": "tv",
+      "query": "脱口秀"
+    },
+    {
+      "name": "选秀",
+      "type": "tv",
+      "query": "选秀"
+    },
+    {
+      "name": "竞技",
+      "type": "tv",
+      "query": "竞技"
+    },
+    {
+      "name": "美食",
+      "type": "tv",
+      "query": "美食"
+    },
+    {
+      "name": "旅游",
+      "type": "tv",
+      "query": "旅游"
+    },
+    {
+      "name": "音乐",
+      "type": "tv",
+      "query": "音乐"
+    },
+    {
+      "name": "舞蹈",
+      "type": "tv",
+      "query": "舞蹈"
+    },
+    {
+      "name": "访谈",
+      "type": "tv",
+      "query": "访谈"
+    },
+    {
+      "name": "搞笑",
+      "type": "tv",
+      "query": "搞笑"
+    },
+    {
+      "name": "情感",
+      "type": "tv",
+      "query": "情感"
+    },
+    {
+      "name": "亲子",
+      "type": "tv",
+      "query": "亲子"
+    },
+    {
+      "name": "职场",
+      "type": "tv",
+      "query": "职场"
+    },
+    {
+      "name": "文化",
+      "type": "tv",
+      "query": "文化"
+    },
+    {
+      "name": "健康",
+      "type": "tv",
+      "query": "健康"
+    }
+  ]
 }
